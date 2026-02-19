@@ -2,7 +2,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-I am Naseer -<br>    AI/ML enthusiast | Web Developer | Devops engineer | Opensource contributor | Problem solver & What not?¿<br>🔧 Experimenting with new tools, stacks, and ideas — bachelor life perks 😄<br>💻Coding is my fuel.<br>📐Math is my Life partner<br> — basically a curious mind with too many tabs open.
+I am Naseer -<br>    AI/ML Engineer | Web Developer | Devops engineer | Opensource contributor | Problem solver & What not?¿<br>🔧 Experimenting with new tools, stacks, and ideas — bachelor life perks 😄<br>💻Coding is my fuel.<br>📐Math is my Life partner<br> — basically a curious mind with too many tabs open.
 
 
 ## 🌐 Socials:
