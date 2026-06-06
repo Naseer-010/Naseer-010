@@ -103,7 +103,7 @@ RL simulation env where LLM agents operate live infra — handling node failures
 </td>
 
 <td width="50%" valign="top">
-<h3> <a href="https://github.com/Naseer-010/RanDoseru">RanDoseru</a></h3>
+<h3> <a href="https://github.com/Naseer-010/Levoks">Levoks</a></h3>
 <sub><code>Next.js · Node.js · Zustand · Docker · JSZip</code></sub>
 <br/><br/>
 
